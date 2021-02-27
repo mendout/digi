@@ -3,4 +3,7 @@ public class Name {
     public Name(){
         a = true;
     }
+    public Name(boolean a) {
+        this.a = a;
+    }
 }
